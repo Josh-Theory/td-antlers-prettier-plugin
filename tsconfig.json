@@ -10,7 +10,8 @@
     "resolveJsonModule": true,
     "declaration": true,
     "isolatedModules": true,
-    "noEmit": true
+    "noEmit": true,
+    "ignoreDeprecations": "6.0"
   },
   "include": ["src"]
 }
